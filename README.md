@@ -1,6 +1,6 @@
 # Heart Failure Prediction with Hierarchical Bayesian Modeling
 
-This is a class project for Course: STAT 591 - Bayesian Statistics, Virginia Commonwealth University, year 2022.
+This is a project for the Bayesian Statistics year 2022.
 
 Predicting mortality in heart failure patients using a hierarchical logistic regression model fitted with MCMC (JAGS).
 
